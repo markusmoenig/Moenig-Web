@@ -1,6 +1,6 @@
 baseURL = 'https://moenig.io'
 languageCode = 'en-us'
-title = 'My Metal / Swift / Rust Graphic Applications'
+title = "Markus Moenig's software applications"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
@@ -56,7 +56,7 @@ weight = 6
   # Author of the site, will be used in meta information
   author = "Markus Moenig"
   # Description of the site, will be used in meta information
-  description = "Markus Moenig's software applications"
+  description = "Markus Moenig's software applications, written in Metal, Swift and Rust"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
