@@ -14,7 +14,7 @@ I run a [Patreon](https://www.patreon.com/MarkusMoenig) in case you want to supp
 
 You can follow my blog on my Patreon or the [Whats New](./whatsnew/) section on this Website.
 
-Here are my apps.
+Here are my applications.
 
 ---
 
@@ -52,7 +52,7 @@ Overview
 * *Languages*: Metal, Swift
 * *Current Version*: v0.70
 * *License*: MIT
-* [Website](https://render-z.com)
+* [Documentation](./render-z/)
 * [TestFlight Link](https://t.co/ZuEjgfBF1f)
 * [GitHub Repo](https://github.com/markusmoenig/Render-Z)
 
