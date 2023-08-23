@@ -12,7 +12,7 @@ If you want to get in contact to talk about bugs or provide feedback or ideas jo
 
 I run a [Patreon](https://www.patreon.com/MarkusMoenig) in case you want to support my work. You can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
 
-You can follow my blog on my Patreon or the [Whats New](./whatsnew/) section on this Website.
+You can follow me on [Twitter](https://twitter.com/MarkusMoenig) or [Mastodon](https://mastodon.social/@markusmoenig).
 
 Here are my applications.
 
