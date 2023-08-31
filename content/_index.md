@@ -29,7 +29,6 @@ Overview
 * *Languages*: Metal, Swift
 * *Current Version*: v1.55
 * *License*: MIT
-* *Website*: Not yet
 * [AppStore Link](https://apps.apple.com/us/app/shadermania/id1541065830)
 * [GitHub Repo](https://github.com/markusmoenig/ShaderMania)
 
@@ -106,7 +105,6 @@ Overview
 * *Languages*: Swift, C, Metal
 * *Current Version*: v0.1
 * *License*: MIT
-* *Website*: Not yet
 * [GitHub Repo](https://github.com/markusmoenig/metalRay)
 
 ---
@@ -128,7 +126,6 @@ Overview
 * *Languages*: Metal, Swift
 * *Current Version*: v1.06
 * *License*: MIT
-* *Website*: Not yet
 * [AppStore Link](https://apps.apple.com/us/app/denrim/id1529774186)
 * [GitHub Repo](https://github.com/markusmoenig/Denrim)
 
