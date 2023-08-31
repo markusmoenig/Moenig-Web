@@ -76,6 +76,41 @@ Overview
 
 ---
 
+## metalRay
+
+**metalRay** is a bare bones game framework for the Apple ecosystem. If you want to code games close to the Metal with a convenient API (in the tradition of frameworks like [raylib](https://raylib.com))  you will feel right at home.
+
+You can write games in Swift and in C directly in Xcode while being able to create C style interoperable memory structures and pass them to your Metal shaders.
+
+*metalRay* focuses right now on 2D drawing, 3D support will be integrated once 2D is stable.
+
+## Features
+
+* Use drawing functions, textures and shaders with an easy to use API.
+* Share memory (C style structs) between Swift, C and Metal.
+* System device events can be easily queried in the game update functions.
+* Draw text using SDF textures.
+* Support for 2D physics and Tiled are incoming.
+* Games / Apps can be deployed easily to macOS, iOS and tvOS using Xcode.
+
+## Why ?
+
+I like to write games low level, and all the popular convenience frameworks out there (SDL2, raylib etc.) are not based on Metal but OpenGL, which makes iOS and tvOS compatibility problematic.
+
+And being nostalgic, I also really enjoy coding in C again sometimes. Especially for implementing some of the classics. Get your hands dirty!
+
+Being able to deploy your games easily to macOS, iOS and tvOS is a major advantage compared to the mostly limited cross-platform alternatives.
+
+Overview
+* *Development Status*: Active
+* *Languages*: Swift, C, Metal
+* *Current Version*: v0.1
+* *License*: MIT
+* *Website*: Not yet
+* [GitHub Repo](https://github.com/markusmoenig/metalRay)
+
+---
+
 ## Denrim
 
 ![Denrim](./denrim.png?classes=left)
