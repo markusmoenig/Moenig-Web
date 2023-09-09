@@ -10,7 +10,7 @@ My apps are mostly written in Metal / Swift for the Apple ecosystem or cross-pla
 
 If you want to get in contact to talk about bugs or provide feedback or ideas join my [Discord](https://discord.gg/BMStWPhByj) or send an [eMail](mailto:nubby.leaving0w@icloud.com).
 
-I run a [Patreon](https://www.patreon.com/MarkusMoenig) in case you want to support my work. You can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
+I run a [Patreon](https://www.patreon.com/eldiron) in case you want to support my work. You can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
 
 You can follow me on [Twitter](https://twitter.com/MarkusMoenig) or [Mastodon](https://mastodon.social/@markusmoenig).
 
@@ -71,7 +71,6 @@ Overview
 * [Website](https://eldiron.com)
 * [TestFlight Link](https://testflight.apple.com/join/50oZ5yds) / [Windows / Linux](https://github.com/markusmoenig/Eldiron/releases)
 * [GitHub Repo](https://github.com/markusmoenig/Eldiron)
-* Eldiron has its own, separate Patreon [here](https://patreon.com/eldiron)
 
 ---
 

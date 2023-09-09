@@ -24,7 +24,7 @@ home = [ "HTML", "RSS", "SEARCH"]
 [[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-patreon'></i> Patreon"
 identifier = "patreon"
-url = "https://patreon.com/markusmoenig"
+url = "https://patreon.com/eldiron"
 weight = 3
 
 [[menu.shortcuts]]
