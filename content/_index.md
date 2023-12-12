@@ -61,6 +61,8 @@ Overview
 
 ![Eldiron](./eldiron.png?classes=left)
 
+*Eldiron is currently undergoing a completw rewrite. I hope to release a new verson early in 2024. See the News section for regular updates!*
+
 Eldiron is a cross-platform creator for classic role-playing-games (RPGs). It’s main aim is to create games similar to the RPGs of the 80’s and 90’s but with modern features as well as support for single and multi-player experiences.
 
 Overview
