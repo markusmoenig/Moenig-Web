@@ -24,11 +24,15 @@ Now, Eldiron's visual scripting UI revolutionizes how it operates. Everything, f
 
 *I'll soon demonstrate how the system operates within Eldiron.*
 
+---
+
 ### ShaderMania v1.55 (August 9th, 2023)
 
 * Various fixes and cosmetics
 * Ability to increase and decrease the size of the code editor font
 * A new icon
+
+---
 
 ### Render-Z v0.7 (August 6th, 2023)
 
