@@ -10,11 +10,52 @@ My apps are mostly written in Metal / Swift for the Apple ecosystem or cross-pla
 
 If you want to get in contact to talk about bugs or provide feedback or ideas join my [Discord](https://discord.gg/BMStWPhByj) or send an [eMail](mailto:nubby.leaving0w@icloud.com).
 
-I run a [Patreon](https://www.patreon.com/eldiron) in case you want to support my work. You can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
+You can buy me a [coffee](https://ko-fi.com/markusmoenig) or you can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
 
 You can follow me on [Twitter](https://twitter.com/MarkusMoenig) or [Mastodon](https://mastodon.social/@markusmoenig).
 
 Here are my applications.
+
+---
+
+## Eldiron
+
+![Eldiron](./eldiron.png?classes=left)
+
+Eldiron is a cross-platform creator for classic role-playing-games (RPGs). It’s main aim is to create games similar to the RPGs of the 80’s and 90’s but with modern features as well as support for single and multi-player experiences.
+
+Overview
+
+- _Development Status_: Active. v1 in 2024.
+- _Languages_: Rust
+- _Current Version_: v0.89
+- _License_: MIT
+- [Website](https://eldiron.com)
+- [Downloads](https://github.com/markusmoenig/Eldiron/releases)
+- [GitHub Repo](https://github.com/markusmoenig/Eldiron)
+
+---
+
+## RPU
+
+![RPU](./rpu.png?classes=left)
+
+RPU is a GLSL compatible programming language for rendering procedural graphics on the CPU.
+
+As GPU shaders can limit the complexity of what you can render, RPU aims to provide an alternative way of rendering complex, unlimited procedural graphics on the CPU, in 64-bit or 32-bit precision.
+
+RPU strives to be compatible with GLSL which means that you can easily port your existing shaders to RPU.
+
+Alternatively you can also use RPU as a general purpose mathematical scripting language, as it is designed to be fast and embeddable in your applications.
+
+Overview
+
+- _Development Status_: Active. v1 in 2024.
+- _Languages_: Rust
+- _Current Version_: v0.30
+- _License_: MIT
+- [Website](https://rpu-lang.org)
+- [GitHub Repo](https://github.com/markusmoenig/RPU)
 
 ---
 
@@ -25,16 +66,18 @@ Here are my applications.
 ShaderMania is a Metal shader editor for macOS and iPadOS. It is mostly inspired by ShaderToy. It features an integrated code editor, live previews and a node system to connect shaders.
 
 Overview
-* *Development Status*: Active
-* *Languages*: Metal, Swift
-* *Current Version*: v1.55
-* *License*: MIT
-* [AppStore Link](https://apps.apple.com/us/app/shadermania/id1541065830)
-* [GitHub Repo](https://github.com/markusmoenig/ShaderMania)
+
+- _Development Status_: Active
+- _Languages_: Metal, Swift
+- _Current Version_: v1.55
+- _License_: MIT
+- [AppStore Link](https://apps.apple.com/us/app/shadermania/id1541065830)
+- [GitHub Repo](https://github.com/markusmoenig/ShaderMania)
 
 Planned Features
-* Text support using a default SDF texture
-* A Lua control script which can call and share parameters with shaders, which would enable interactive presentations and small games.
+
+- Text support using a default SDF texture
+- A Lua control script which can call and share parameters with shaders, which would enable interactive presentations and small games.
 
 ---
 
@@ -47,66 +90,14 @@ Render-Z is a visual Metal shader editor for macOS and iPadOS. Visually create M
 You can stack shaders and developers can expose variables to artists which can manipulate them using gizmos.
 
 Overview
-* *Development Status*: Active. v1 in 2023.
-* *Languages*: Metal, Swift
-* *Current Version*: v0.70
-* *License*: MIT
-* [Documentation](./render-z/)
-* [TestFlight Link](https://t.co/ZuEjgfBF1f)
-* [GitHub Repo](https://github.com/markusmoenig/Render-Z)
 
----
-
-## Eldiron
-
-![Eldiron](./eldiron.png?classes=left)
-
-*Eldiron is currently undergoing a complete rewrite. I hope to release a new verson early in 2024. See the News section for regular updates!*
-
-Eldiron is a cross-platform creator for classic role-playing-games (RPGs). It’s main aim is to create games similar to the RPGs of the 80’s and 90’s but with modern features as well as support for single and multi-player experiences.
-
-Overview
-* *Development Status*: Active. v1 in 2023.
-* *Languages*: Rust
-* *Current Version*: v0.82
-* *License*: MIT
-* [Website](https://eldiron.com)
-* [TestFlight Link](https://testflight.apple.com/join/50oZ5yds) / [Windows / Linux](https://github.com/markusmoenig/Eldiron/releases)
-* [GitHub Repo](https://github.com/markusmoenig/Eldiron)
-
----
-
-## metalRay
-
-**metalRay** is a bare bones game framework for the Apple ecosystem. If you want to code games close to the Metal with a convenient API (in the tradition of frameworks like [raylib](https://raylib.com))  you will feel right at home.
-
-You can write games in Swift and in C directly in Xcode while being able to create C style interoperable memory structures and pass them to your Metal shaders.
-
-*metalRay* focuses right now on 2D drawing, 3D support will be integrated once 2D is stable.
-
-## Features
-
-* Use drawing functions, textures and shaders with an easy to use API.
-* Share memory (C style structs) between Swift, C and Metal.
-* System device events can be easily queried in the game update functions.
-* Draw text using SDF textures.
-* Support for 2D physics and Tiled are incoming.
-* Games / Apps can be deployed easily to macOS, iOS and tvOS using Xcode.
-
-## Why ?
-
-I like to write games low level, and all the popular convenience frameworks out there (SDL2, raylib etc.) are not based on Metal but OpenGL, which makes iOS and tvOS compatibility problematic.
-
-And being nostalgic, I also really enjoy coding in C again sometimes. Especially for implementing some of the classics. Get your hands dirty!
-
-Being able to deploy your games easily to macOS, iOS and tvOS is a major advantage compared to the mostly limited cross-platform alternatives.
-
-Overview
-* *Development Status*: Active
-* *Languages*: Swift, C, Metal
-* *Current Version*: v0.1
-* *License*: MIT
-* [GitHub Repo](https://github.com/markusmoenig/metalRay)
+- _Development Status_: Active. v1 in 2023.
+- _Languages_: Metal, Swift
+- _Current Version_: v0.70
+- _License_: MIT
+- [Documentation](./render-z/)
+- [TestFlight Link](https://t.co/ZuEjgfBF1f)
+- [GitHub Repo](https://github.com/markusmoenig/Render-Z)
 
 ---
 
@@ -123,18 +114,20 @@ Text based behavior trees are easy-to-use yet powerful tools to create game logi
 An integrated 2D physics engine provides realistic and fast physics for your game.
 
 Overview
-* *Development Status*: Active
-* *Languages*: Metal, Swift
-* *Current Version*: v1.06
-* *License*: MIT
-* [AppStore Link](https://apps.apple.com/us/app/denrim/id1529774186)
-* [GitHub Repo](https://github.com/markusmoenig/Denrim)
+
+- _Development Status_: Inactive
+- _Languages_: Metal, Swift
+- _Current Version_: v1.06
+- _License_: MIT
+- [AppStore Link](https://apps.apple.com/us/app/denrim/id1529774186)
+- [GitHub Repo](https://github.com/markusmoenig/Denrim)
 
 Planned Features for v2
-* SwiftUI IDE
-* Lua scripts which talk to custom Metal shaders
-* Tiled import for maps
-* 2D physics
+
+- SwiftUI IDE
+- Lua scripts which talk to custom Metal shaders
+- Tiled import for maps
+- 2D physics
 
 ---
 
@@ -189,9 +182,10 @@ glass += Groove(box, 0.001, 0.07);
 ```
 
 Overview
-* *Development Status*: Active. Although I need some new inspirations and ideas.
-* *Languages*: Rust
-* *Current Version*: v0.2
-* *License*: MIT
-* [Website](https://forgedthoughts.com)
-* [GitHub Repo](https://github.com/markusmoenig/ForgedThoughts)
+
+- _Development Status_: Active. Although I need some new inspirations and ideas.
+- _Languages_: Rust
+- _Current Version_: v0.2
+- _License_: MIT
+- [Website](https://forgedthoughts.com)
+- [GitHub Repo](https://github.com/markusmoenig/ForgedThoughts)
