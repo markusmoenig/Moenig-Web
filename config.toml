@@ -22,11 +22,11 @@ url = "https://www.youtube.com/channel/UCCmrO356zLQv_m8dPEqBUfA"
 weight = 2
 
 
-[[menu.shortcuts]]
-url = "https://ko-fi.com/markusmoenig"
-name = "<i class='fab fa-fw fa-coffee'></i> Ko-fi"
-identifier = "Kofi"
-weight = 3
+# [[menu.shortcuts]]
+# url = "https://ko-fi.com/markusmoenig"
+# name = "<i class='fab fa-fw fa-coffee'></i> Ko-fi"
+# identifier = "Kofi"
+# weight = 3
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-discord'></i> Discord"

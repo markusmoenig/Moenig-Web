@@ -10,9 +10,7 @@ My apps are mostly written in Metal / Swift for the Apple ecosystem or cross-pla
 
 If you want to get in contact to talk about bugs or provide feedback or ideas join my [Discord](https://discord.gg/BMStWPhByj) or send an [eMail](mailto:nubby.leaving0w@icloud.com).
 
-You can buy me a [coffee](https://ko-fi.com/markusmoenig) or you can also become a [GitHub Sponsor](https://github.com/sponsors/markusmoenig).
-
-You can follow me on [Twitter](https://twitter.com/MarkusMoenig) or [Mastodon](https://mastodon.social/@markusmoenig).
+You can follow me on [Twitter](https://twitter.com/MarkusMoenig).
 
 Here are my applications.
 
